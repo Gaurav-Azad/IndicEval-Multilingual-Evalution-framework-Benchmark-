@@ -1,1 +1,1 @@
-# IndicEval-Multilingual-Evalution-framework-Benchmark-
+# IndicEval-Indian-Multilingual-Evalution-framework(Benchmark)
